@@ -1,4 +1,4 @@
-package controller;
+package project.sanmiguel.sanmiguel.controller;
 
 import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.stereotype.Controller;;

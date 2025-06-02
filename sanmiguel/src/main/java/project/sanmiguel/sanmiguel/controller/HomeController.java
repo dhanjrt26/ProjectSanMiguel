@@ -1,4 +1,4 @@
-package controller;
+package project.sanmiguel.sanmiguel.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
